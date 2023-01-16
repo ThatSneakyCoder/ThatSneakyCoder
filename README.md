@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://shubh220922.io)
+
 
 <h1 align="center">Heyy! 👋, I'm Shubh Srivastava</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
