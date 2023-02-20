@@ -9,8 +9,10 @@
 <img align="center">![Github_Banner](https://user-images.githubusercontent.com/90137881/220087613-c6ffbecf-d762-4a0f-b08f-414ab680d0bf.png)</img>
 <h1 align="center">About me</h1>
 
-<p align="center">I'm an extremely passionate developer from India in my 2nd year of college. I generally like to code in Java. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more. I support communities that empower others to become successful in tech. I also support the student community in my college and is always open to collaboration, innovation and learning in public. </p>
+ 
+<p align="left">I'm an extremely passionate developer from India in my 2nd year of college. I generally like to code in Java. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more. I support communities that empower others to become successful in tech. I also support the student community in my college and is always open to collaboration, innovation and learning in public. </p>
 
+  
 <h1 align="center">Technical Skills</h1>
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -74,11 +76,19 @@
 <table align="center">
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=shubh220922&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubh Srivastava" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=shubh220922&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubh Srivastava" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh220922&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubh Srivastava" /></td>
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh220922&theme=dark" alt="Shubh Srivastava" /></p>
+<table align="center">
+  <tr>
+    <td> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh220922&theme=dark" alt="Shubh Srivastava" /></td>
+  <td>
+  <a href="https://github.com/shubh220922"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh220922&theme=tokyonight&hide_border=true"  width="520" alt="Shubh Srivastava"/></a></td>
+    </tr>
+  </table>
+  
+  
+  
   </div>
