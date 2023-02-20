@@ -8,3 +8,35 @@
 </p>
 
 
+<h1 align="center">Experience</h1>
+
+<h2 align="left">Hackathons</h2>
+
+| Event Name | Description | Repository Link |
+| :---: | :---: | :---: |
+| nil | nil | nil |
+| nil | nil | nil |
+
+<h2 align="left">Personal Projects</h2>
+
+| Project | Description |
+| :---: | :---: |
+| nil | nil |
+| nil | nil |
+
+
+<h1 align="center">My blog posts</h1>
+
+<h2 align="left">Technical blogs</h2>
+
+| Blog Name | Description |
+| :---: | :---: |
+| nil | nil |
+
+<h2 align="left">Non-technical blogs</h2>
+
+| Blog Name | Description | 
+| :---: | :----: |  
+| [Important work ethics that every developer should know](https://shubh220922.hashnode.dev/important-work-ethics-that-every-developer-should-know) | The blog discusses about improvement of work life of developers by shedding light on various mistakes they commit and provides their respective solutions. |
+ 
+
