@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Oh, how are you doing?! 👋, I'm Shubh Srivastava</h1>
+<h1 align="center">Oh, there you are! Hi 👋, I'm Shubh Srivastava</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=नमस्ते+Hello+Привет+你好+salut;Computer+Science+Student+From+India;Hackathon+Master;Cloud+Engineering+Enthusiast;Love+To+Collaborate;Building+Strong+Communities"></a>
@@ -8,6 +8,8 @@
 
 <img align="center">![Github_Banner](https://user-images.githubusercontent.com/90137881/220087613-c6ffbecf-d762-4a0f-b08f-414ab680d0bf.png)</img>
 <h1 align="center">About me</h1>
+
+<p align="center">I'm an extremely passionate developer from India in my 2nd year of college. I generally like to code in Java. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more. I support communities that empower others to become successful in tech. I also support the student community in my college and is always open to collaboration, innovation and learning in public. </p>
 
 <h1 align="center">Technical Skills</h1>
 <p align="center"> 
@@ -33,15 +35,15 @@
 
 | Event Name | Description | Repository Link |
 | :---: | :---: | :---: |
-| Smart India Hackathon 2022 (Winner) | Developed a website that would provide data on predicted rates of jobs and admissions till the year 2031 | nil |
-| OpenHack 2022(Top contributing team) | Contributed to checkstyle repository on github as a part of this hackathon. | nil |
+| Smart India Hackathon 2022 (Winner) | Global Graduate Employment Index, this product is a fully functional working website which would provide all the details of the trends of the jobs and admissions in the field of engineering, pharmacy and management.  Prediction models upto 2031 were produced and visually represented using scatter plots. | [SIH2022](https://github.com/shubh220922/Global-Graduate-Employment-Index-SIH-2022-project-) |
+| OpenHack 2022(Top contributing team) | Contributed to checkstyle repository on github as a part of this hackathon. This included documentation updates and migration of test cases. | [Checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Ashubh220922+is%3Aclosed) |
 
 <h2 align="left">Personal Projects</h2>
 
 | Project | Description |
 | :---: | :---: |
-| nil | nil |
-| nil | nil |
+| [Workster](https://github.com/shubh220922/Workster-Normal-editable-landing-page-) | This was a part of tutorial I completed where I built a webpage that displayed time and the user could enter notes. |
+| [About me HTML page](https://github.com/shubh220922/About-me-HTML-project-) | This project was a part of a tutorial that I completed when I made a simple HTML page which has information about me. |
 
 
 <h1 align="center">My blog posts</h1>
