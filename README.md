@@ -60,4 +60,14 @@
 | :---: | :----: |  
 | [Important work ethics that every developer should know](https://shubh220922.hashnode.dev/important-work-ethics-that-every-developer-should-know) | The blog discusses about improvement of work life of developers by shedding light on various mistakes they commit and provides their respective solutions. |
  
+ <h1 align="center">Let's connect and grow together</h1>
+ 
+ <div align="center">
+
+
+<a  href="https://www.linkedin.com/in/shubh-srivastava-34a344220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/shubh220922" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="shubh22.srivastava@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+</div>
 
