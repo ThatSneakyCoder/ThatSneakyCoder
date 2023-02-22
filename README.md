@@ -52,9 +52,10 @@
 
 <h2 align="left">Technical blogs</h2>
 
-| Blog Name | Description |
+<!-- | Blog Name | Description |
 | :---: | :---: |
-| nil | nil |
+| nil | nil | -->
+<p>Publishing soon</p>
 
 <h2 align="left">Non-technical blogs</h2>
 
