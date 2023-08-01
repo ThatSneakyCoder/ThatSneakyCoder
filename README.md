@@ -46,8 +46,6 @@
 | Project | Description |
 | :---: | :---: |
 | [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in spring boot. Thymeleaf was used for server side rendering. |
-| [Workster](https://github.com/shubh220922/Workster-Normal-editable-landing-page-) | This was a part of tutorial I completed where I built a webpage that displayed time and the user could enter notes. |
-| [About me HTML page](https://github.com/shubh220922/About-me-HTML-project-) | This project was a part of a tutorial that I completed when I made a simple HTML page which has information about me. |
 
 
 <h1 align="center">My blog posts</h1>
