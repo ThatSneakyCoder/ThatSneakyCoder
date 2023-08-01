@@ -45,7 +45,7 @@
 
 | Project | Description |
 | :---: | :---: |
-| [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in spring boot. Thymeleaf was used for server side rendering. |
+| [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in spring boot. Thymeleaf was used for server side rendering. Mysql for database.|
 
 
 <h1 align="center">My blog posts</h1>
