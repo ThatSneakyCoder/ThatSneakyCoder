@@ -68,6 +68,25 @@
  ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@DevMuzzammil: RT by @MrSrivastavaJi: Harsh Truth:
+
+If you continue to wait for the right time, you&#39;ll waste your entire life waiting for the moment.](https://twitter.com/MrSrivastavaJi/status/1694732275273834587)
+- [@MrSrivastavaJi: Raksha bandhan is coming.
+
+What gifts are you expecting from your brother?!!😄
+
+What gift will you be giving to your sister?🎁](https://twitter.com/MrSrivastavaJi/status/1694713641055195264)
+- [@MrSrivastavaJi: My friends discouraged me to code.
+
+I did it anyways cuz i really like it. 
+
+Writing code for me is like filling an empty canvas with colorful paints. 
+
+What&#39;s your story?!😃
+
+&lpar;PS: I also made better friends💪&rpar;](https://twitter.com/MrSrivastavaJi/status/1694703608045195772)
+- [@MrSrivastavaJi: Agree?!😁](https://twitter.com/MrSrivastavaJi/status/1694628111168442581)
+- [@iammemeloper: RT by @MrSrivastavaJi: I can use all other languages in mine. Like a pro 💪](https://twitter.com/MrSrivastavaJi/status/1694620158290198550)
 <!-- TWITTER:END -->
  
  <h1 align="center">Let's connect and grow together</h1>
