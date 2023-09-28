@@ -37,7 +37,7 @@
 
 | Event Name | Description | Repository Link |
 | :---: | :---: | :---: |
-| fetch.ai Hackathon |_ongoing_| _ongoing_ |
+| fetch.ai Hackathon | Built a GUI based python application (used tkinter library for GUI) for traders to monitor fluctuations in currency exchange rates in real time by deploying a fetch uAgent that autonomouly monitors the rates and notifies the user when the rates cross user defined threshold.| [fetch.ai Hackathon](https://github.com/shubh220922/Fetch.ai-Hackathon-Project) |
 | Smart India Hackathon 2022 (Winner) | Global Graduate Employment Index, this product is a fully functional working website which would provide all the details of the trends of the jobs and admissions in the field of engineering, pharmacy and management.  Prediction models upto 2031 were produced and visually represented using scatter plots. | [SIH2022](https://github.com/shubh220922/Global-Graduate-Employment-Index-SIH-2022-project-) |
 | OpenHack 2022(Top contributing team) | Contributed to checkstyle repository in github as a part of this hackathon. This included documentation updates and migration of test cases. | [Checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Ashubh220922+is%3Aclosed) |
 | 418 Hackathon (Winner, 1st position) | Developed a web application that uses built-in chatgpt bot and a mapping service (leaflet.js) to help users build a good tour plan with the help of chatgpt. | [TourGPT](https://github.com/shubh220922/Aether-Hackathon-Project/tree/main) |
