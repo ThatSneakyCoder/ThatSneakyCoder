@@ -46,7 +46,8 @@
 
 | Project | Description |
 | :---: | :---: |
-| [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in spring boot. Thymeleaf was used for server side rendering. Mysql for database.|
+| [ToDo App](https://github.com/shubh220922/ToDo_terminal/tree/master) | A simple checklist app written in ``python`` with a simple to understand GUI interface built using ``tkinter``. CICD for the project was setup through ``circleCI``. Dependency management through ``poetry``. Database through ``Mysql``|
+| [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in ``spring boot``. ``Thymeleaf`` was used for server side rendering. ``Mysql`` for database.|
 
 
 <h1 align="center">My blog posts</h1>
