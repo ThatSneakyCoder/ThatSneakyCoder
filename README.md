@@ -46,8 +46,9 @@
 
 | Project | Description |
 | :---: | :---: |
+| [Store Management Website](https://github.com/shubh220922/Store-Management-System) | Developed a full stack store management website. Database in ``MySQL``, ORM through ``SQLAlchemy``, frontend written in ``HTML``, ``CSS``, ``Bootstrap`` and ``Javascript``, data-visualization through ``Chart.js``, backend in ``python flask``, project management through ``python poetry``. This website has features like outlet location management, employee management, store product management (adding and removing products) with automatic restocking feature. Dashboard includes graph of remaining stocks with table of recent orders placed. |
 | [ToDo App](https://github.com/shubh220922/ToDo_terminal/tree/master) | A simple checklist app written in ``python`` with a simple to understand GUI interface built using ``tkinter``. CICD for the project was setup through ``circleCI``. Dependency management through ``poetry``. Database through ``Mysql``|
-| [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in ``spring boot``. ``Thymeleaf`` was used for server side rendering. ``Mysql`` for database.|
+| [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in ``spring boot``. ``Thymeleaf`` was used for server side rendering. ``MySQL`` for database.|
 
 
 <h1 align="center">My blog posts</h1>
