@@ -32,22 +32,24 @@
 
 <h1 align="center">Experience</h1>
 
-<h2 align="left">Hackathons</h2>
-
-| Event Name | Description | Repository Link |
-| :---: | :---: | :---: |
-| fetch.ai Hackathon | Built a GUI based python application (used tkinter library for GUI) for traders to monitor fluctuations in currency exchange rates in real time by deploying a fetch uAgent that autonomouly monitors the rates and notifies the user when the rates cross user defined threshold.| [fetch.ai Hackathon](https://github.com/shubh220922/Fetch.ai-Hackathon-Project) |
-| Smart India Hackathon 2022 (Winner) | Global Graduate Employment Index, this product is a fully functional working website which would provide all the details of the trends of the jobs and admissions in the field of engineering, pharmacy and management.  Prediction models upto 2031 were produced and visually represented using scatter plots. | [SIH2022](https://github.com/shubh220922/Global-Graduate-Employment-Index-SIH-2022-project-) |
-| OpenHack 2022(Top contributing team) | Contributed to checkstyle repository in github as a part of this hackathon. This included documentation updates and migration of test cases. | [Checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Ashubh220922+is%3Aclosed) |
-| 418 Hackathon (Winner, 1st position) | Developed a web application that uses built-in chatgpt bot and a mapping service (leaflet.js) to help users build a good tour plan with the help of chatgpt. | [TourGPT](https://github.com/shubh220922/Aether-Hackathon-Project/tree/main) |
-
 <h2 align="left">Personal Projects</h2>
 
 | Project | Description |
 | :---: | :---: |
+| [Open vocabulary EEG-to_Text Decoding]() | Developed an EEG-to-Text decoding system based on the latest research to enhance non-invasive brain-to-text communication. Implemented the EEG2TEXT model while leveraging EEG pre-training and a multi-view transformer for accurate open vocabulary decoding |
+| [Decentralized File Storage System]() | This project involves creating a decentralized file storage system with peer-to-peer (P2P) network for enhanced security and availability. Implemented file chunking, encryption and metadata management for data integrity and privacy. Also integrated IPFS for efficient file retrieval and designing redundancy mechanisms to ensure access during node failures.|
 | [Store Management Website](https://github.com/shubh220922/Store-Management-System) | Developed a full stack store management website. Database in ``MySQL``, ORM through ``SQLAlchemy``, frontend written in ``HTML``, ``CSS``, ``Bootstrap`` and ``Javascript``, data-visualization through ``Chart.js``, backend in ``python flask``, project management through ``python poetry``. This website has features like outlet location management, employee management, store product management (adding and removing products) with automatic restocking feature. Dashboard includes graph of remaining stocks with table of recent orders placed. <br><br> **I also ``dockerized`` the project** and the docker compose file is available in the README.md of the project.|
 | [ToDo App](https://github.com/shubh220922/ToDo_terminal/tree/master) | A simple checklist app written in ``python`` with a simple to understand GUI interface built using ``tkinter``. CICD for the project was setup through ``circleCI``. Dependency management through ``poetry``. Database through ``Mysql``|
 | [Employee Management Website](https://github.com/shubh220922/Employee-Management-Website) | This is simple employee management web application written in ``spring boot``. ``Thymeleaf`` was used for server side rendering. ``MySQL`` for database.|
+
+<h2 align="left">Hackathons</h2>
+
+| Event Name | Description | Repository Link |
+| :---: | :---: | :---: |
+| Smart India Hackathon 2022 (Winner) | Global Graduate Employment Index, this product is a fully functional working website which would provide all the details of the trends of the jobs and admissions in the field of engineering, pharmacy and management.  Prediction models upto 2031 were produced and visually represented using scatter plots. | [SIH2022](https://github.com/shubh220922/Global-Graduate-Employment-Index-SIH-2022-project-) |
+| OpenHack 2022(Top contributing team) | Contributed to checkstyle repository in github as a part of this hackathon. This included documentation updates and migration of test cases. | [Checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Ashubh220922+is%3Aclosed) |
+| fetch.ai Hackathon | Built a GUI based python application (used tkinter library for GUI) for traders to monitor fluctuations in currency exchange rates in real time by deploying a fetch uAgent that autonomouly monitors the rates and notifies the user when the rates cross user defined threshold.| [fetch.ai Hackathon](https://github.com/shubh220922/Fetch.ai-Hackathon-Project) |
+| 418 Hackathon (Winner, 1st position) | Developed a web application that uses built-in chatgpt bot and a mapping service (leaflet.js) to help users build a good tour plan with the help of chatgpt. | [TourGPT](https://github.com/shubh220922/Aether-Hackathon-Project/tree/main) |
 
 
 <h1 align="center">My blog posts</h1>
