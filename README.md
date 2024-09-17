@@ -1,13 +1,10 @@
 
 <h1 align="center">Oh, there you are! Hi 👋, I'm Shubh Srivastava</h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=नमस्ते+Hello+Привет+你好+salut;Computer+Science+Student+From+India;Hackathon+Master;Cloud+Engineering+Enthusiast;Love+To+Collaborate;Building+Strong+Communities"></a>
 </p>
-
 <img align="center">![Github_Banner](https://github.com/user-attachments/assets/67e6196e-52a6-4e76-a8fe-b94befdd3c31)</img>
 <h1 align="center">About me</h1>
-
  
 <p align="center">I'm an extremely passionate developer from India in my 4th year of college. I generally like to code in Java. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more. I support communities that empower others to become successful in tech. I also support the student community in my college and is always open to collaboration, innovation and learning in public. </p>
 
@@ -79,7 +76,7 @@
 
 </div>
 
-<p>My resume:</p> 
+<p>Download my resume:</p> 
 
 [resume_v5.pdf](https://github.com/user-attachments/files/17027196/resume_v5.pdf)
 
