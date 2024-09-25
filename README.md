@@ -34,7 +34,6 @@
 
 | Project | Description |
 | :---: | :---: |
-| [Open vocabulary EEG-to_Text Decoding]() | Developed an EEG-to-Text decoding system based on the latest research to enhance non-invasive brain-to-text communication. Implemented the EEG2TEXT model while leveraging EEG pre-training and a multi-view transformer for accurate open vocabulary decoding |
 | [Decentralized File Storage System]() | This project involves creating a decentralized file storage system with peer-to-peer (P2P) network for enhanced security and availability. Implemented file chunking, encryption and metadata management for data integrity and privacy. Also integrated IPFS for efficient file retrieval and designing redundancy mechanisms to ensure access during node failures.|
 | [Store Management Website](https://github.com/shubh220922/Store-Management-System) | Developed a full stack store management website. Database in ``MySQL``, ORM through ``SQLAlchemy``, frontend written in ``HTML``, ``CSS``, ``Bootstrap`` and ``Javascript``, data-visualization through ``Chart.js``, backend in ``python flask``, project management through ``python poetry``. This website has features like outlet location management, employee management, store product management (adding and removing products) with automatic restocking feature. Dashboard includes graph of remaining stocks with table of recent orders placed. <br><br> **I also ``dockerized`` the project** and the docker compose file is available in the README.md of the project.|
 | [ToDo App](https://github.com/shubh220922/ToDo_terminal/tree/master) | A simple checklist app written in ``python`` with a simple to understand GUI interface built using ``tkinter``. CICD for the project was setup through ``circleCI``. Dependency management through ``poetry``. Database through ``Mysql``|
@@ -77,9 +76,10 @@
 
 </div>
 
-<p>Download my resume:</p> 
+<p>Download my resume:</p> [shubh_srivastava.pdf](https://github.com/user-attachments/files/17125673/shubh_srivastava.pdf)
 
-[resume_v5.pdf](https://github.com/user-attachments/files/17027196/resume_v5.pdf)
+
+
 
 
 
