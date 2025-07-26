@@ -59,7 +59,7 @@
 
 | Blog Name | Description | 
 | :---: | :----: |  
-| [Important work ethics that every developer should know](https://shubh220922.hashnode.dev/important-work-ethics-that-every-developer-should-know) | The blog discusses about improvement of work life of developers by shedding light on various mistakes they commit and provides their respective solutions. |
+| Link | Desc|
  
  <h1 align="center">Let's connect and grow together</h1>
  
