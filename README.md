@@ -34,7 +34,7 @@
 
 | Project | Description |
 | :---: | :---: |
-| [Store Management Website](https://github.com/shubh220922/Store-Management-System) | Developed a full stack store management website. Database in ``MySQL``, ORM through ``SQLAlchemy``, frontend written in ``HTML``, ``CSS``, ``Bootstrap`` and ``Javascript``, data-visualization through ``Chart.js``, backend in ``python flask``, project management through ``python poetry``. This website has features like outlet location management, employee management, store product management (adding and removing products) with automatic restocking feature. Dashboard includes graph of remaining stocks with table of recent orders placed. <br><br> **I also ``dockerized`` the project** and the docker compose file is available in the README.md of the project.|
+| Link | - |
 
 <h2 align="left">Hackathons</h2>
 
