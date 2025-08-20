@@ -7,7 +7,7 @@
 <img align="center">![Github_Banner](https://github.com/user-attachments/assets/67e6196e-52a6-4e76-a8fe-b94befdd3c31)</img>
 <h1 align="center">About me</h1>
  
-<p align="center">I'm an extremely passionate developer from India in my 4th year of college. I generally like to code in Java. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more. I support communities that empower others to become successful in tech. I also support the student community in my college and is always open to collaboration, innovation and learning in public. </p>
+<p align="center">I'm an extremely passionate developer from India just graduated from college. I generally like to code in Golang and JavaScript. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more. I support communities that empower others to become successful in tech. I also support the student community in my college and is always open to collaboration, innovation and learning in public. </p>
 
   
 <h1 align="center">Technical Skills</h1>
