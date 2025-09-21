@@ -4,10 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=नमस्ते+Hello+Привет+你好+salut;Computer+Science+Student+From+India;Hackathon+Master;Cloud+Engineering+Enthusiast;Love+To+Collaborate;Building+Strong+Communities"></a>
 </p>
 
-<img align="center">![Github_Banner](https://github.com/user-attachments/assets/67e6196e-52a6-4e76-a8fe-b94befdd3c31)</img>
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/b4190542-5d36-4c22-a142-64807e2fed07" />
+
 <h1 align="center">About me</h1>
  
-<p align="center">I'm an extremely passionate developer from India just graduated from college. I generally like to code in Golang and JavaScript. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more. I support communities that empower others to become successful in tech. I also support the student community in my college and is always open to collaboration, innovation and learning in public. </p>
+<p align="center">I'm an extremely passionate developer from India just graduated from college. I generally like to code in Golang and JavaScript. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more.</p>
 
   
 <h1 align="center">Technical Skills</h1>
@@ -74,9 +75,6 @@
 </div>
 
 
-<p>Download my resume:</p> 
-
-[shubh_srivastava.pdf](https://github.com/user-attachments/files/17125673/shubh_srivastava.pdf)
 
 
 
