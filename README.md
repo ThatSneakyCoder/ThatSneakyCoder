@@ -24,20 +24,22 @@
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 
-<h1 align="center">Experience</h1>
+<h1 align="left">Experience</h1>
 
-<h2 align="left">Personal Projects</h2>
+| Company | Position | Description | Tenure |
+| :---: | :---: | :---: | :---: |
+| Prodigal.ai | Backend Intern | Was involved in Dhanur.AI project where I built the backend using headless cms called strapi (typescript). I also managed and developed api layer hosted on aws lambda. | Feb 2025 - Jul 2025 |
 
-| Project | Description |
-| :---: | :---: |
-| Link | - |
+<h1 align="left">Personal Projects</h1>
 
-<h2 align="left">Hackathons</h2>
+| Project | Description | Tech Stack |
+| :---: | :---: | :---: |
+| [Movie Reservation System](https://github.com/ThatSneakyCoder/Movie-Reservation-System) | A backend system for managing movies, cinemas, screens, showtimes, and bookings. Includes user authentication, RBAC, notifications, reminders, caching, and observability. | Go, OpenFGA, Redis, MailTrap, Twilio (otp/sms), Prometheus, Grafana, Docker, PostgreSQL, MongoDB | 
+
+<h1 align="left">Hackathons</h1>
 
 | Event Name | Description | Repository Link |
 | :---: | :---: | :---: |
@@ -49,27 +51,21 @@
 
 <h1 align="center">My blog posts</h1>
 
-<h2 align="left">Technical blogs</h2>
+<h1 align="left">Technical blogs</h1>
 
 <!-- | Blog Name | Description |
 | :---: | :---: |
 | nil | nil | -->
 <p>Publishing soon</p>
-
-<h2 align="left">Non-technical blogs</h2>
-
-| Blog Name | Description | 
-| :---: | :----: |  
-| Link | Desc|
  
  <h1 align="center">Let's connect and grow together</h1>
  
  <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/shubh-srivastava-34a344220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/shubh220922" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:shubh22.srivastava@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.linkedin.com/in/shubhtech/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/ThatSneakyCoder" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:shubh.officemail@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
 
 </div>
