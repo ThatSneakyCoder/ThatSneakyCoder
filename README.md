@@ -34,6 +34,7 @@
 | Prodigal.ai | Backend Intern | Was involved in Dhanur.AI project where I built the backend using headless cms called strapi (typescript). I also managed and developed api layer hosted on aws lambda. | Feb 2025 - Jul 2025 |
 
 <h1 align="left">Personal Projects</h1>
+<h2 align="left">Backend</h2>
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
@@ -49,16 +50,16 @@
 | 418 Hackathon (Winner, 1st position) | Developed a web application that uses built-in chatgpt bot and a mapping service (leaflet.js) to help users build a good tour plan with the help of chatgpt. | [TourGPT](https://github.com/shubh220922/Aether-Hackathon-Project/tree/main) |
 
 
-<h1 align="center">My blog posts</h1>
+<!-- <h1 align="center">My blog posts</h1>
 
-<h1 align="left">Technical blogs</h1>
+<h1 align="left">Technical blogs</h1> -->
 
 <!-- | Blog Name | Description |
 | :---: | :---: |
 | nil | nil | -->
-<p>Publishing soon</p>
+<!-- <p>Publishing soon</p> -->
  
- <h1 align="center">Let's connect and grow together</h1>
+ <h1 align="center">Get in touch</h1>
  
  <div align="center">
 
