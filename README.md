@@ -34,7 +34,6 @@
 | Prodigal.ai | Backend Intern | Was involved in Dhanur.AI project where I built the backend using headless cms called strapi (typescript). I also managed and developed api layer hosted on aws lambda. | Feb 2025 - Jul 2025 |
 
 <h1 align="left">Personal Projects</h1>
-<h2 align="left">Backend</h2>
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
