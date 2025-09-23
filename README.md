@@ -8,38 +8,41 @@
 
 <h1 align="center">About me</h1>
  
-<p align="center">I'm an extremely passionate developer from India just graduated from college. I generally like to code in Golang and JavaScript. I'm always enthusiastic about cloud computing, kubernetes and a lot of other technologies like docker and jenkins. I find nearly every field in computer science really interesting like machine learning, data visualization, web development and much more.</p>
+<p align="center">I'm a passionate developer from India with a strong focus on backend engineering using Golang and JavaScript. I enjoy working with modern infrastructure tools like Docker, Kubernetes, and Jenkins, and I'm deeply interested in building scalable systems. My curiosity spans across cloud computing, machine learning, data visualization, and web development. I love exploring the breadth of computer science and solving real-world problems through code.</p>
 
   
 <h1 align="center">Technical Skills</h1>
-<p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
 
+| Category | Skills |
+| :---: | :---: |
+| Programming Languages | Golang, Java, Python, JavaScript, C/C++, SQL |
+| Build & Automation Tools | Maven, Git, Python Poetry, CircleCI, Jenkins |
+| Frameworks & Libraries | Chi, Express.js, Flask, Chart.js |
+| Technologies & Platforms | Docker, AWS, Linux (Ubuntu) |
+| Additional Skills | System Design, Software Architecture |
 
-<h1 align="left">Experience</h1>
+</div>
+<h1 align="center">Experience</h1>
 
 | Company | Position | Description | Tenure |
 | :---: | :---: | :---: | :---: |
 | Prodigal.ai | Backend Intern | Was involved in Dhanur.AI project where I built the backend using headless cms called strapi (typescript). I also managed and developed api layer hosted on aws lambda. | Feb 2025 - Jul 2025 |
 
-<h1 align="left">Personal Projects</h1>
+<h1 align="center">Open Source Contributions</h1>
+
+| Project | Description | Link to merged PRs |
+| :---: | :---: | :---: |
+| [Checkstyle](https://github.com/checkstyle/checkstyle) | Most of my contributions were around mutation testing (pitest), shell script updates, bug fixes, documentation updates and, unit testing. | [Merged PRs](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AThatSneakyCoder+is%3Aclosed), [Github Discussions](https://github.com/checkstyle/checkstyle/discussions?discussions_q=author%3AThatSneakyCoder+) | 
+
+
+<h1 align="center">Personal Projects</h1>
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
 | [Movie Reservation System](https://github.com/ThatSneakyCoder/Movie-Reservation-System) | A backend system for managing movies, cinemas, screens, showtimes, and bookings. Includes user authentication, RBAC, notifications, reminders, caching, and observability. | Go, OpenFGA, Redis, MailTrap, Twilio (otp/sms), Prometheus, Grafana, Docker, PostgreSQL, MongoDB | 
 
-<h1 align="left">Hackathons</h1>
+<h1 align="center">Hackathons</h1>
 
 | Event Name | Description | Repository Link |
 | :---: | :---: | :---: |
