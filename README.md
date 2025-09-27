@@ -40,7 +40,7 @@
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
-| RoutePulse: Fleet Telematics Platform | A microservices telematics platform that ingests vehicle GPS/fuel data, computes routes & ETAs (via OSRM), tracks trip progress on a map, enforces geofences, raises alerts (speeding/off-route/fuel drop), and exposes reports & APIs for dispatch and replay. | In-progress |
+| RoutePulse: Fleet Telematics Platform (Project In-progress) | A microservices telematics platform that ingests vehicle GPS/fuel data, computes routes & ETAs (via OSRM), tracks trip progress on a map, enforces geofences, raises alerts (speeding/off-route/fuel drop), and exposes reports & APIs for dispatch and replay. | Golang, Python, React, JavaScript, OSRM, Prometheus, Grafana |
 | [Movie Reservation System](https://github.com/ThatSneakyCoder/Movie-Reservation-System) | A backend system for managing movies, cinemas, screens, showtimes, and bookings. Includes user authentication, RBAC, notifications, reminders, caching, and observability. | Go, OpenFGA, Redis, MailTrap, Twilio (otp/sms), Prometheus, Grafana, Docker, PostgreSQL, MongoDB | 
 
 <h1 align="center">Hackathons</h1>
