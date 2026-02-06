@@ -36,7 +36,7 @@
 | [Checkstyle](https://github.com/checkstyle/checkstyle) | Most of my contributions were around mutation testing (pitest), shell script updates, bug fixes, documentation updates and, unit testing. | [Merged PRs](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AThatSneakyCoder+is%3Aclosed), [Github Discussions](https://github.com/checkstyle/checkstyle/discussions?discussions_q=author%3AThatSneakyCoder+) | 
 
 
-<h1 align="center">Personal Projects</h1>
+<h1 align="center">Backend Personal Projects</h1>
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
