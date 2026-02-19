@@ -35,6 +35,11 @@
 | :---: | :---: | :---: |
 | [Checkstyle](https://github.com/checkstyle/checkstyle) | Most of my contributions were around mutation testing (pitest), shell script updates, bug fixes, documentation updates and, unit testing. | [Merged PRs](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AThatSneakyCoder+is%3Aclosed), [Github Discussions](https://github.com/checkstyle/checkstyle/discussions?discussions_q=author%3AThatSneakyCoder+) | 
 
+<h1 align="center">Frontend Personal Projects</h1>
+
+| Project | Description | Tech Stack |
+| :---: | :---: | :---: |
+| [RoutePulse](https://github.com/ThatSneakyCoder/RoutePulse-Fleet-Telematics-Platform): Fleet Management Platform (Project In-progress) | This frontend was built for the RoutePulse fleet management project. RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | HTML, Tailwind, React |
 
 <h1 align="center">Backend Personal Projects</h1>
 
