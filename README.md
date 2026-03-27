@@ -39,13 +39,13 @@
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
-| [RoutePulse](https://github.com/ThatSneakyCoder/RoutePulse-Fleet-Telematics-Platform): Fleet Management Platform (Project In-progress) | This frontend was built for the RoutePulse fleet management project. RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | HTML, Tailwind, React |
+| [RoutePulse](https://github.com/ThatSneakyCoder/RoutePulse-Fleet-Telematics-Platform): Fleet Management Platform | This frontend was built for the RoutePulse fleet management project. RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | HTML, Tailwind, React |
 
 <h1 align="center">Backend Personal Projects</h1>
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
-| [RoutePulse](https://github.com/ThatSneakyCoder/RoutePulse-Fleet-Telematics-Platform): Fleet Management Platform (Project In-progress) | RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | Golang, Python, React, JavaScript, OSRM, Prometheus, Grafana |
+| [RoutePulse](https://github.com/ThatSneakyCoder/RoutePulse-Fleet-Telematics-Platform): Fleet Management Platform | RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | Golang, React, JavaScript, OSRM, Microservice, Brevo (Mailing/OTP), RabbitMQ, Kubernetes, Docker |
 | [Movie Reservation System](https://github.com/ThatSneakyCoder/Movie-Reservation-System) | A backend system for managing movies, cinemas, screens, showtimes, and bookings. Includes user authentication, RBAC, notifications, reminders, caching, and observability. | Go, OpenFGA, Redis, MailTrap, Twilio (otp/sms), Prometheus, Grafana, Docker, PostgreSQL, MongoDB | 
 
 <h1 align="center">Hackathons</h1>
