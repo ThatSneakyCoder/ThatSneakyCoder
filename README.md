@@ -35,22 +35,12 @@
 | :---: | :---: | :---: |
 | [Checkstyle](https://github.com/checkstyle/checkstyle) | Most of my contributions were around mutation testing (pitest), shell script updates, bug fixes, documentation updates and, unit testing. | [Merged PRs](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AThatSneakyCoder+is%3Aclosed), [Github Discussions](https://github.com/checkstyle/checkstyle/discussions?discussions_q=author%3AThatSneakyCoder+) | 
 
-<h1 align="center">MLOps Projects</h1>
+<h1 align="center">Personal Projects</h1>
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
 | Sagess | End-to-End AWS SageMaker clone from scratch | Tailwind, React, shadcn, TypeScript, Golang, Microservice, Kubernetes, Docker |
-
-<h1 align="center">Full Stack Projects</h1>
-
-| Project | Description | Tech Stack |
-| :---: | :---: | :---: |
 | [RoutePulse](https://github.com/ThatSneakyCoder/RoutePulse-Fleet-Telematics-Platform) | RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | HTML, Tailwind, React, Golang, React, JavaScript, OSRM, Microservice (gRPC), Brevo (Mailing/OTP), RabbitMQ, Kubernetes, Docker |
-
-<h1 align="center">Backend Projects</h1>
-
-| Project | Description | Tech Stack |
-| :---: | :---: | :---: |
 | [Movie Reservation System](https://github.com/ThatSneakyCoder/Movie-Reservation-System) | A backend system for managing movies, cinemas, screens, showtimes, and bookings. Includes user authentication, RBAC, notifications, reminders, caching, and observability. | Go, OpenFGA, Redis, MailTrap, Twilio (otp/sms), Prometheus, Grafana, Docker, PostgreSQL, MongoDB | 
 
 <h1 align="center">Hackathons</h1>
